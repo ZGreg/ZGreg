@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZGreg
+- 👋 Hi, I’m @Hryhorii Zubko
 - 👀 I’m interested in programming (of course), learning languages, doing sport.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on ...
